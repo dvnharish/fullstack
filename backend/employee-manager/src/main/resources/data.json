@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Harish",
+    "email": "harish@abc.com",
+    "jobTitle": "Developer",
+    "phoneNumber": "+919789959265",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar1.png"
+  },
+  {
+    "name": "Bobby",
+    "email": "Bobby@abc.com",
+    "jobTitle": "Frontend",
+    "phoneNumber": "+919789959265",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar2.png"
+  },
+  {
+    "name": "Tilly",
+    "email": "tilly@abc.com",
+    "jobTitle": "Backend",
+    "phoneNumber": "+919789959265",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar3.png"
+  },
+  {
+    "name": "Bella",
+    "email": "bella@abc.com",
+    "jobTitle": "Content Writer",
+    "phoneNumber": "+919789959265",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar4.png"
+  },
+  {
+    "name": "Rondy",
+    "email": "rondy@abc.com",
+    "jobTitle": "Manager",
+    "phoneNumber": "+919789959265",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar5.png"
+  },
+  {
+    "name": "Brandy",
+    "email": "brandy@abc.com",
+    "jobTitle": "Finance",
+    "phoneNumber": "+919789959265",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar6.png"
+  },
+  {
+    "name": "max",
+    "email": "max@abc.com",
+    "jobTitle": "Admin",
+    "phoneNumber": "+919789959265",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar7.png"
+  }
+]
